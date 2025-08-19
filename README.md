@@ -7,20 +7,24 @@ Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/perl-compress-r
 About perl-compress-raw-bzip2
 -----------------------------
 
-Home: https://metacpan.org/dist/Compress-Raw-Bzip2
+Home: https://metacpan.org/pod/Compress::Raw::Bzip2
 
 Package license: GPL-1.0-or-later OR Artistic-1.0-Perl
 
-Summary: Low-Level Interface to bzip2 compression library
+Summary: Low-Level Interface to bzip2 compression library.
+
+Documentation: https://metacpan.org/pod/Compress::Raw::Bzip2
 
 About perl-compress-raw-bzip2
 -----------------------------
 
-Home: https://metacpan.org/dist/Compress-Raw-Bzip2
+Home: https://metacpan.org/pod/Compress::Raw::Bzip2
 
 Package license: GPL-1.0-or-later OR Artistic-1.0-Perl
 
-Summary: Low-Level Interface to bzip2 compression library
+Summary: Low-Level Interface to bzip2 compression library.
+
+Documentation: https://metacpan.org/pod/Compress::Raw::Bzip2
 
 Current build status
 ====================

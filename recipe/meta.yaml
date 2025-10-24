@@ -1,6 +1,6 @@
 {% set name = "perl-compress-raw-bzip2" %}
-{% set version = "2.213" %}
-{% set sha256 = "8d75d3d366c9101ca18061b00d438d3da39478c06159147dea3c666770577c7b" %}
+{% set version = "2.214" %}
+{% set sha256 = "b0810a4d6e1a402892840564e6589e6ecd39cb87561bc556f171b78e900079cb" %}
 
 package:
   name: {{ name }}
@@ -12,7 +12,7 @@ source:
 
 build:
   number: 0
-  skip: True  # [win]
+  skip: true  # [win]
   script:
     - perl Makefile.PL INSTALLDIRS=vendor NO_PERLLOCAL=1 NO_PACKLIST=1
     - make
